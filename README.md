@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MatveyBu
-- 👀 I’m interested in 
+- 👀 I’m interested in collaboration
 - 🌱 I’m currently learning C++ at the University of Colorado Boulder.
 - 💞️ I’m looking to collaborate on any projects that would give me more experience.
 - 📫 How to reach me bubalo.matvey@gmail.com
